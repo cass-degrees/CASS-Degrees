@@ -2,12 +2,27 @@
 Welcome to the landing page for the CASS Degrees Techlauncher Team! 
 
 
+## Table of Contents
+1. [**Introduction**](#introduction)
+2. [**Stakeholders**](#stakeholders)
+3. [**Project Appraoch**](#project-approach)  
+  3.1 [Progress Tracking](progress-tracking)  
+  3.2 [Decision Making](decision-making)  
+  3.3 [Meeting Schedule](meeting-schedule)  
+  3.4 [Communication](communication)  
+  3.5 [Reflection/Feedback](reflection/feedback)
+4. [**Project Team**](#project-team)
+5. [**Resources**](#resources)
+6. [**Links**](#links)
+
+
 ## Introduction
 The CASS Degrees Program Planner is a tool which aims to facilitate students enrolled in CASS degrees to easily manage and personalise their degree program. 
 
 **Client Vision**
 
 The tool should expand on existing paper-based templates to assist students in selecting courses that will help them graduate on time according to the rules of their degree. It should draw on data from Programs and Courses and the expertise of course advisors to account for legal program variations and accomodate a wide berth of unique degree permutations. The client has requested an open sourse system, but is open to how the final product will be implemented. 
+
 
 ## Stakeholders
 
@@ -19,24 +34,37 @@ The tool should expand on existing paper-based templates to assist students in s
 
 ### Stakeholder Management
 
+
 ## Project Approach
+### Progress Tracking
+Weekly form thing. Includes our feedback and how we reflect on it. Weekly decisions/tasks included here.
+
+### Decision Making
+As a team we make decisions during the various meetings we have each week. Decisions are made democratically, with a consensus being found among all members before it is settled and recorded. Split matters are settled by vote. 
+
+### Meeting Schedule
+Tutorial meetings are held every Friday from 4pm to 6pm and are facilitated by our tutors Anthony and David, with our shadow team, Personal Values. This time is used to receive outside insight into the state of our project and to give feedback on our shadow team's project.
+
+We intend to schedule a fortnightly meeting with our clients for feedback and requirement gathering.
+
+Team meetings infrequently occur on Wednesday from 5:00pm to 6:00pm. Team meetings are a chance for the development team to organise ourselves around the feedback we've received and to determine how we should move forwards given the tasks we have.
+
+More detailed information regarding this can be found in our [Communications Plan](https://docs.google.com/document/d/14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE?usp=sharing)
+
 ### Communication
 Our team has decided to use Slack for it's official communication channel. This will allow us to easily hand over the project and its documentation to any team which may take over after us. This will also allow us to include our clients and get more rapid responses.
 
 Additionally we will continue to use Facebook Messenger as an informal channel for keeping our team up to date and managing non-project matters. 
 
-### Decision Making
-As a team we make decisions during the various meetings we have each week. Decisions are made democratically, with a consensus being found among all members before it is settled and recorded. Split matters are settled by vote. 
+More detailed information regarding this can be found in our [Communications Plan](https://docs.google.com/document/d/14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE?usp=sharing)
 
-### Progress Tracking
-Weekly form thing. Includes our feedback and how we reflect on it. Weekly decisions/tasks included here.
+### Reflection/Feedback
+The team receives feedback both from tutors and the shadow team every audit week, after which the team will determine the feasability of each feedback item and implement the suggestions where possible.
 
-### Meeting Schedule
-Tutorial meetings are held every Friday from 4pm to 6pm and are facilitated by our tutors Anthony and David, with our shadow team, Personal Values. This time is used to receive outside insight into the state of our project and to give feedback on our shadow team's project.
+As previously mentioned, client meetings are also scheduled every fortnight to gain actionable feedback directly from the client and to ensure the product is being developed correctly.
 
-We intend to schedule a weekly meeting with our clients for feedback and requirement gathering.
+Furthermore, all changes to the product are freely accessible on GitHub, and members are encouraged to review the changes made by other team members in order to ensure the best approach was used.
 
-Team meetings infrequently occur on Wednesday from 4:30pm to 6pm. Team meetings are a chance for the development team to organise ourselves around the feedback we've received and to determine how we should move forwards given the tasks we have.
 
 ## Project Team
 
@@ -72,6 +100,7 @@ No decisions have been finalised on what resources will be used to complete the 
 * Django
 * Python
 * SQLite
+
 
 ## Links
 Google Docs - Full Folder: https://drive.google.com/open?id=10U7-yYsQLGL0vKojnlN8gC1WB_mJcal7
