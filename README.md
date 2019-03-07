@@ -10,7 +10,7 @@ Welcome to the landing page for the CASS Degrees Techlauncher Team!
   3.2 [Decision Making](#decision-making)  
   3.3 [Meeting Schedule](#meeting-schedule)  
   3.4 [Communication](#communication)  
-  3.5 [Reflection/Feedback](#reflection/feedback)
+  3.5 [Reflection](#reflection)
 4. [**Project Team**](#project-team)
 5. [**Resources**](#resources)
 6. [**Links**](#links)
@@ -58,7 +58,7 @@ Additionally we will continue to use Facebook Messenger as an informal channel f
 
 More detailed information regarding this can be found in our [Communications Plan](https://docs.google.com/document/d/14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE?usp=sharing)
 
-### Reflection/Feedback
+### Reflection
 The team receives feedback both from tutors and the shadow team every audit week, after which the team will determine the feasability of each feedback item and implement the suggestions where possible.
 
 As previously mentioned, client meetings are also scheduled every fortnight to gain actionable feedback directly from the client and to ensure the product is being developed correctly.
