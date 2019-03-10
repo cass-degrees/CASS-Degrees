@@ -123,4 +123,8 @@ Slack Workspace: https://cass-degree-planner.slack.com
 
 Google Docs - Full Folder: https://drive.google.com/open?id=10U7-yYsQLGL0vKojnlN8gC1WB_mJcal7
 
+Issue Tracker: https://github.com/cass-degrees/CASS-Degrees/issues
+
+Issue Tracker (Code specific): https://github.com/cass-degrees/CASS-Degrees-Code/issues
+
 Meeting Logs: https://drive.google.com/drive/folders/1fpFeuFxD4O9LfkYHkkmW7qggrJmWUA_u
