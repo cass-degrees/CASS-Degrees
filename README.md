@@ -27,17 +27,25 @@ The tool should expand on existing paper-based templates to assist students in s
 ## Stakeholders
 
 **Client**
+Deborah Veness and Frederick Chew of the College of Art and Social Sciences expect a working program that will allow students of the Australian National University to manage their degrees. They have a large wishlist of requirements but accept that only an essential fraction of those may be completed given time constraints.
 
 **Developers**
+The development team of the CASS Degrees project expect to produce at least a minimum viable product for the clients by the end of the program, and endeavour to leave the repository in a clean state for handover to any further teams that follow.
+
+**Programs and Courses/ISIS Administrators** 
+Administrators of Programs and Courses and ISIS are responsible for the security of student and course information. As our project hopes to use this data, it is imperative that we come to an agreement with administrators on what we can and cannot gain access to. 
 
 **Users**
+Users of the CASS Degree Planner expect a functional program that is intuitive to use, efficient, and accurate. They expect to be able to evaluate the validity of their degree plan and to be presented with options that enable them to complete their degree on time. 
 
-### Stakeholder Management
-
+### Stakeholder Engagement
+We will be engaging our stakeholders regularly to collect feedback and keep them up to date with our progress. Accounting for the varying stakes each party holds in our project, we will be engaging them differently. More detailed information regarding this can be found in our [Communications Plan](https://docs.google.com/document/d/14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE?usp=sharing).
 
 ## Project Approach
 ### Progress Tracking
-Weekly form thing. Includes our feedback and how we reflect on it. Weekly decisions/tasks included here.
+Every week, or at appropriate intervals, our team will complete a status report detailing a summary of recent actions, feedback, and decisions, a forecast of the coming interval, and an analysis of potential risks and mitigations. Taken in sequence, these reports will describe the progress of our project from start to finish. 
+
+Additionally we will be using Git Issues to manage planned actions and milestones. This will allow us to track our velocity over time. 
 
 ### Decision Making
 As a team we make decisions during the various meetings we have each week. Decisions are made democratically, with a consensus being found among all members before it is settled and recorded. Split matters are settled by vote. 
@@ -49,14 +57,14 @@ We intend to schedule a fortnightly meeting with our clients for feedback and re
 
 Team meetings infrequently occur on Wednesday from 5:00pm to 6:00pm. Team meetings are a chance for the development team to organise ourselves around the feedback we've received and to determine how we should move forwards given the tasks we have.
 
-More detailed information regarding this can be found in our [Communications Plan](https://docs.google.com/document/d/14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE?usp=sharing)
+More detailed information regarding this can be found in our [Communications Plan](https://docs.google.com/document/d/14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE?usp=sharing).
 
 ### Communication
 Our team has decided to use Slack for it's official communication channel. This will allow us to easily hand over the project and its documentation to any team which may take over after us. This will also allow us to include our clients and get more rapid responses.
 
 Additionally we will continue to use Facebook Messenger as an informal channel for keeping our team up to date and managing non-project matters. 
 
-More detailed information regarding this can be found in our [Communications Plan](https://docs.google.com/document/d/14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE?usp=sharing)
+More detailed information regarding this can be found in our [Communications Plan](https://docs.google.com/document/d/14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE?usp=sharing).
 
 ### Reflection
 The team receives feedback both from tutors and the shadow team every audit week, after which the team will determine the feasability of each feedback item and implement the suggestions where possible.
