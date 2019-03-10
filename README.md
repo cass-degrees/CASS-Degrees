@@ -27,15 +27,19 @@ The tool should expand on existing paper-based templates to assist students in s
 ## Stakeholders
 
 **Client**
+
 Deborah Veness and Frederick Chew of the College of Art and Social Sciences expect a working program that will allow students of the Australian National University to manage their degrees. They have a large wishlist of requirements but accept that only an essential fraction of those may be completed given time constraints.
 
 **Developers**
+
 The development team of the CASS Degrees project expect to produce at least a minimum viable product for the clients by the end of the program, and endeavour to leave the repository in a clean state for handover to any further teams that follow.
 
 **Programs and Courses/ISIS Administrators** 
+
 Administrators of Programs and Courses and ISIS are responsible for the security of student and course information. As our project hopes to use this data, it is imperative that we come to an agreement with administrators on what we can and cannot gain access to. 
 
 **Users**
+
 Users of the CASS Degree Planner expect a functional program that is intuitive to use, efficient, and accurate. They expect to be able to evaluate the validity of their degree plan and to be presented with options that enable them to complete their degree on time. 
 
 ### Stakeholder Engagement
