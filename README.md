@@ -117,7 +117,7 @@ No decisions have been finalised on what resources will be used to complete the 
 ## Links
 Code Repository: https://github.com/cass-degrees/CASS-Degrees-Code
 
-Slack Joining Link: https://join.slack.com/t/cass-degree-planner/shared_invite/enQtNTY4MjYyNTE1Njk5LTQxMGZkMjFlNDVjYTgyMjZiY2NkNzdhMjg3YjhjN2E5ZjEzNGJhYWQ4ZTM4N2RjM2YzN2FkOWRmNDNjZWI4ZmI
+Slack Joining Link (need @anu.edu.au email): https://join.slack.com/t/cass-degree-planner/signup 
 
 Slack Workspace: https://cass-degree-planner.slack.com
 
