@@ -115,16 +115,17 @@ No decisions have been finalised on what resources will be used to complete the 
 
 
 ## Links
-Code Repository: https://github.com/cass-degrees/CASS-Degrees-Code
 
-Slack Joining Link (need @anu.edu.au email): https://join.slack.com/t/cass-degree-planner/signup 
+**Code**
+* Code Repository: https://github.com/cass-degrees/CASS-Degrees-Code
 
-Slack Workspace: https://cass-degree-planner.slack.com
+**Project Management/Documentation**
+* Google Docs - Full Folder: https://drive.google.com/open?id=10U7-yYsQLGL0vKojnlN8gC1WB_mJcal7
+* Meeting Logs: https://drive.google.com/drive/folders/1fpFeuFxD4O9LfkYHkkmW7qggrJmWUA_u
+* Projct Actions Register: https://github.com/cass-degrees/CASS-Degrees/issues
+* Issue Tracker (Code specific): https://github.com/cass-degrees/CASS-Degrees-Code/issues
 
-Google Docs - Full Folder: https://drive.google.com/open?id=10U7-yYsQLGL0vKojnlN8gC1WB_mJcal7
+**Communication**
+* Slack Joining Link (need @anu.edu.au email): https://join.slack.com/t/cass-degree-planner/signup 
+* Slack Workspace: https://cass-degree-planner.slack.com
 
-Issue Tracker: https://github.com/cass-degrees/CASS-Degrees/issues
-
-Issue Tracker (Code specific): https://github.com/cass-degrees/CASS-Degrees-Code/issues
-
-Meeting Logs: https://drive.google.com/drive/folders/1fpFeuFxD4O9LfkYHkkmW7qggrJmWUA_u
