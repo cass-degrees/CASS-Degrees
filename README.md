@@ -109,6 +109,8 @@ Members of the development team will take an active role in bringing this projec
 | ---------------|--------|
 | Deborah Veness | Client |
 | Frederick Chew | Client |
+| Wendy Dimond   | Client |
+| Paul Dowden    | Client |
 | Anthony Troy   | Tutor  |
 | David Retter   | Tutor  |
 
