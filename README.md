@@ -79,6 +79,11 @@ Additionally we will continue to use Facebook Messenger as an informal channel f
 
 More detailed information regarding this can be found in our [Communications Plan](https://docs.google.com/document/d/14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE?usp=sharing).
 
+#### Risk Management
+Potential Risks of the project have been outlined and managed in our Risk Management Plan. The plan lists potential risks which may happen and provides strategies to avoid or solve them.
+
+Risk Management Plan can be found here: [Risk Management Plan](https://drive.google.com/open?id=1iUkYaQKMDL7mGSwdNpoIu-KCUZ1_6Yhwv1flvfUmHpU).
+
 #### Reflection
 The team receives feedback both from tutors and the shadow team every audit week, after which the team will determine the feasability of each feedback item and implement the suggestions where possible.
 
@@ -93,15 +98,15 @@ Furthermore, all changes to the product are freely accessible on GitHub, and mem
 
 Members of the development team will take an active role in bringing this project to completion.
 
-| Team Member     | ID       | Role                  | Description                                                                    |
-|-----------------|----------|-----------------------|--------------------------------------------------------------------------------|
-| Aiden George    | u6049100 | TBA                   | Na                                                                             |
-| Jack Sekoranja  | u6049302 | TBA                   | Na                                                                             |
-| Daniel Jang     | u6048122 | TBA                   | Na                                                                             |
-| James Lonie     | u6379426 | TBA                   | Na                                                                             |
-| Joshua Bee      | u4528333 | TBA                   | Na                                                                             |
-| Kavan Lu        | u6051623 | TBA                   | Na                                                                             |
-| Spencer Jimenez | u6051318 | TBA                   | Na                                                                             |
+| Team Member     | ID       | Role                                     | Description                                                                    |
+|-----------------|----------|------------------------------------------|--------------------------------------------------------------------------------|
+| Aiden George    | u6049100 | Database Manager, Back end developer      | Manages the design, integrity and security of the databases                                                                              |
+| Jack Sekoranja  | u6049302 | Team Leader, Back end developer           | Team leader and project manager, supporting the back end development                                                                            |
+| Daniel Jang     | u6048122 | Web Framework Expert, Back end developer  | Lead backend developer and expert/coach in the Django framework for the project                                                                            |
+| James Lonie     | u6379426 | Frontend, UX                              | Front end developer and UX design and feedback                                                                             | 
+| Joshua Bee      | u4528333 | Assistant PM/BA/Client Liaison, UX        | UX design and support aswell as the assistant to Jack for client comunication                                                                           |
+| Kavan Lu        | u6051623 | Full stack developer, UX client Liason    | Full stack support and UX client liason for evaluation                                                                           |
+| Spencer Jimenez | u6051318 | Back end developer, Project documentation | back end developer and project documenter                                                                              |
 
 #### Additional Members
 
