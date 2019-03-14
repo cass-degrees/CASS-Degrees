@@ -82,6 +82,8 @@ More detailed information regarding this can be found in our [Communications Pla
 #### Risk Management
 Potential Risks of the project have been outlined and managed in our Risk Management Plan. The plan lists potential risks which may happen and provides strategies to avoid or solve them.
 
+These risks will be outlined by the Risk Identification committee and regularly updated as the project continues.
+
 Risk Management Plan can be found here: [Risk Management Plan](https://drive.google.com/open?id=1iUkYaQKMDL7mGSwdNpoIu-KCUZ1_6Yhwv1flvfUmHpU).
 
 #### Reflection
@@ -98,7 +100,9 @@ Furthermore, all changes to the product are freely accessible on GitHub, and mem
 
 Members of the development team will take an active role in bringing this project to completion.
 
-| Team Member     | ID       | Role                                     | Description                                                                    |
+The following roles are not concrete and final as members of the team will help each other cohesively or move around if required.
+
+| Team Member     | ID       | Roles                                     | Description                                                                    |
 |-----------------|----------|------------------------------------------|--------------------------------------------------------------------------------|
 | Aiden George    | u6049100 | Database Manager, Back end developer      | Manages the design, integrity and security of the databases                                                                              |
 | Jack Sekoranja  | u6049302 | Team Leader, Back end developer           | Team leader and project manager, supporting the back end development                                                                            |
@@ -106,7 +110,7 @@ Members of the development team will take an active role in bringing this projec
 | James Lonie     | u6379426 | Frontend, UX                              | Front end developer and UX design and feedback                                                                             | 
 | Joshua Bee      | u4528333 | Assistant PM/BA/Client Liaison, UX        | UX design and support aswell as the assistant to Jack for client comunication                                                                           |
 | Kavan Lu        | u6051623 | Full stack developer, UX client Liason    | Full stack support and UX client liason for evaluation                                                                           |
-| Spencer Jimenez | u6051318 | Back end developer, Project documentation | back end developer and project documenter                                                                              |
+| Spencer Jimenez | u6051318 | Back end developer, Project documentation | Back end developer and Project documenter                                                                              |
 
 #### Additional Members
 
