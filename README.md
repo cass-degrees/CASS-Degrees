@@ -11,12 +11,23 @@ Welcome to the landing page for the CASS Degrees Techlauncher Team!
   3.1 [Progress Tracking](#progress-tracking)  
   3.2 [Decision Making](#decision-making)  
   3.3 [Meeting Schedule](#meeting-schedule)  
-  3.4 [Communication](#communication)  
-  3.5 [Reflection](#reflection)
+  3.4 [Communication](#communication)
+  3.5 [Risk Management](#risk-management)
+  3.6 [Reflection](#reflection)
 4. [**Project Team**](#project-team)
 5. [**Resources**](#resources)
 6. [**Links**](#links)
 
+## Google Docs Quick Links
+
+| [Documentation](https://drive.google.com/open?id=1MmAtbK0Lwu-IbhTMGxcNcP3FAMeRYd2X)| [Meetings](https://drive.google.com/open?id=1fpFeuFxD4O9LfkYHkkmW7qggrJmWUA_u)| [Status Reports](https://drive.google.com/open?id=1GuVAxwuIDZ3gFAZFIvEV_wut6_rlMRC8)| Key Items           |
+| ------------------------| -------------------------------| ---------------|---------------------|
+| [Audit Slides](https://drive.google.com/open?id=1bcxvLUQuq6jiC465WvGlsRmKL5HT-RLo)| [Clients and Other Stakeholders](https://drive.google.com/open?id=1E0AdjdjLzEDudV9X-D3Qjn3fYaql4mqs)| [Week 1 - 4](https://drive.google.com/open?id=1cp05J6dyT_-6RU_9uuOHxsWHmLspTFEFaINTIBBAMCE)| [Decision Log](https://drive.google.com/open?id=12ar4XQoozRggSNLCwvhpQoXkVg5gJ_JHEPpT2dG7LBE)        |
+| [Background Information](https://drive.google.com/open?id=1MOayte1dxKNy5z9vaXo3pz8scp3-lIYl)  | [Team](https://drive.google.com/open?id=1vDEsEDF1YbRqA0QhEgogbXtRuZk4z8xL)| [Week 5](https://drive.google.com/open?id=1CKi-FE9i-byInlGEkyjSVduYzQCQlSqg7L_3xGW4iSc)| [Project Charter](https://drive.google.com/open?id=1L3I3CIHI_RxuIQfRNz6L2n4ElNZzPtzUEkuak34ZdAA)|
+| [Feedback](https://drive.google.com/open?id=10LmfKmBLF7mQ6Ri0RSveZ3jq5kQscv9v)                | [Tutorial](https://drive.google.com/open?id=1I5MYG0kQGI4CZBQcIccEEP9XDHIYEEjf)                       |                | [Risk Management Plan](https://drive.google.com/open?id=1iUkYaQKMDL7mGSwdNpoIu-KCUZ1_6Yhwv1flvfUmHpU)|
+| [Decisions](https://drive.google.com/open?id=1zk-5phAtB7XhIN0ourKKT51OxwbStsZ_)               |                                |                | [Risk Register](https://drive.google.com/open?id=16VNgkBs3rKWezIkiO1ovMCDx6blobRHIYs8ZbZOl3K0)       |
+| [Management Documentation](https://drive.google.com/open?id=1DAo47W-4svWW_Ek5XHdfai0CKnkV6Ec4)|                                |                | [Statement of Work](https://drive.google.com/open?id=12bhNJ-nasf74UieJZhcsj3wIEmmZ5hZp)   |
+| [Technical Documentation](https://drive.google.com/open?id=18UBmo8dOSLm1uJFiDYEH1aARJkX342F0) |                                |                | [Communications Plan](https://drive.google.com/open?id=14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE) |
 
 ## Introduction
 The CASS Degrees Program Planner is a tool which aims to facilitate students enrolled in CASS degrees to easily manage and personalise their degree program. 
@@ -80,11 +91,11 @@ Additionally we will continue to use Facebook Messenger as an informal channel f
 More detailed information regarding this can be found in our [Communications Plan](https://docs.google.com/document/d/14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE?usp=sharing).
 
 #### Risk Management
-Potential Risks of the project have been outlined and managed in our Risk Management Plan. The plan lists potential risks which may happen and provides strategies to avoid or solve them.
+Potential Risks of the project have been outlined and managed in our Risk Register. The register lists potential risks which may happen and provides strategies to avoid or solve them. See [Risk Register](https://drive.google.com/open?id=16VNgkBs3rKWezIkiO1ovMCDx6blobRHIYs8ZbZOl3K0)
 
 These risks will be outlined by the Risk Identification committee and regularly updated as the project continues.
 
-Risk Management Plan can be found here: [Risk Management Plan](https://drive.google.com/open?id=1iUkYaQKMDL7mGSwdNpoIu-KCUZ1_6Yhwv1flvfUmHpU).
+The Risk Management Plan decribes the formal process of how we manage and discover risks and can be found here: [Risk Management Plan](https://drive.google.com/open?id=1iUkYaQKMDL7mGSwdNpoIu-KCUZ1_6Yhwv1flvfUmHpU).
 
 #### Reflection
 The team receives feedback both from tutors and the shadow team every audit week, after which the team will determine the feasability of each feedback item and implement the suggestions where possible.
@@ -109,7 +120,7 @@ The following roles are not concrete and final as members of the team will help 
 | Daniel Jang     | u6048122 | Web Framework Expert, Back end developer  | Lead backend developer and expert/coach in the Django framework for the project                                                                            |
 | James Lonie     | u6379426 | Frontend, UX                              | Front end developer and UX design and feedback                                                                             | 
 | Joshua Bee      | u4528333 | Assistant PM/BA/Client Liaison, UX        | UX design and support aswell as the assistant to Jack for client comunication                                                                           |
-| Kavan Lu        | u6051623 | Full stack developer, UX client Liason    | Full stack support and UX client liason for evaluation                                                                           |
+| Kavan Lu        | u6051623 | Full stack developer, UX client Liason       | Full stack support and UX client liason for evaluation                                                                   |
 | Spencer Jimenez | u6051318 | Back end developer, Project documentation | Back end developer and Project documenter                                                                              |
 
 #### Additional Members
