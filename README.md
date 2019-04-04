@@ -38,7 +38,7 @@ The process of planning for a degree plan can be extremely confusing, especially
 * Provide a tool that will make it easier and less stressful to plan their degree
 * Simplify the manual processes used by CASS staff to help students plan their degree
 
-A more detailed list of project benefits can be found [here](https://docs.google.com/document/d/1--KoS8IbUjbAqelNh_rJYU_NUcWlk00LU79EfL2-Iy4).
+A more detailed list of project benefits can be found in the [MVP Problem and Benefits Statement](https://drive.google.com/open?id=1IJ_FJ4hzZf6kgmfbK3YP0H3ODYEdl_0jCjqyXc3aGG8) and in the  [Statement of Work](https://docs.google.com/document/d/1--KoS8IbUjbAqelNh_rJYU_NUcWlk00LU79EfL2-Iy4).
 
 
 #### Client Vision
