@@ -119,8 +119,6 @@ These files can be found here: [Feedback Files](https://drive.google.com/drive/u
 
 Members of the development team will take an active role in bringing this project to completion.
 
-The following roles are not concrete and final as members of the team will help each other cohesively or move around if required.
-
 | Team Member     | ID       | Roles                           |                                                                 
 |-----------------|----------|---------------------------------|
 | Aiden George    | u6049100 | Developer                       | 
@@ -152,7 +150,7 @@ The following roles are not concrete and final as members of the team will help 
 
 The project application will be a Web based application therefore the standard: HTML, CSS, JavaScript. 
 
-CSS Styles used follows the ANU web publishing guideless and it will be an ANU endorsed website 
+CSS Styles used follows the ANU web publishing guidelines as it will be an ANU endorsed website 
 http://webpublishing.anu.edu.au/web-style-guide/
 
 ## Links
