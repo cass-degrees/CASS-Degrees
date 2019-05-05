@@ -1,13 +1,17 @@
 # CASS-Degrees
 Welcome to the landing page for the CASS Degrees Techlauncher Team!
 
+For the codebase of the project please go to here: https://github.com/cass-degrees/CASS-Degrees-Code
+
+*Note: please go to develop branch for the most recent updates.*
+
 
 ## Table of Contents
 1. [**Introduction**](#introduction)  
   1.1 [Need for Project](#need-for-project)  
   1.2 [Client Vision](#client-vision)
 2. [**Stakeholders**](#stakeholders)
-3. [**Project Appraoch**](#project-approach)  
+3. [**Project Approach**](#project-approach)  
   3.1 [Progress Tracking](#progress-tracking)  
   3.2 [Decision Making](#decision-making)  
   3.3 [Meeting Schedule](#meeting-schedule)  
@@ -25,10 +29,10 @@ Welcome to the landing page for the CASS Degrees Techlauncher Team!
 | [Audit Slides](https://drive.google.com/open?id=1bcxvLUQuq6jiC465WvGlsRmKL5HT-RLo)| [Clients and Other Stakeholders](https://drive.google.com/open?id=1E0AdjdjLzEDudV9X-D3Qjn3fYaql4mqs)| [Week 1 - 4](https://drive.google.com/open?id=1cp05J6dyT_-6RU_9uuOHxsWHmLspTFEFaINTIBBAMCE)| [Decision Log](https://drive.google.com/open?id=12ar4XQoozRggSNLCwvhpQoXkVg5gJ_JHEPpT2dG7LBE)        |
 | [Background Information](https://drive.google.com/open?id=1MOayte1dxKNy5z9vaXo3pz8scp3-lIYl)  | [Team](https://drive.google.com/open?id=1vDEsEDF1YbRqA0QhEgogbXtRuZk4z8xL)| [Week 5](https://drive.google.com/open?id=1CKi-FE9i-byInlGEkyjSVduYzQCQlSqg7L_3xGW4iSc)| [Project Charter](https://drive.google.com/open?id=1L3I3CIHI_RxuIQfRNz6L2n4ElNZzPtzUEkuak34ZdAA)|
 | [Feedback](https://drive.google.com/open?id=10LmfKmBLF7mQ6Ri0RSveZ3jq5kQscv9v)                | [Tutorial](https://drive.google.com/open?id=1I5MYG0kQGI4CZBQcIccEEP9XDHIYEEjf)                       | [Week 6](https://drive.google.com/open?id=1eRfGq1p24dp379c930QyZ-1OAA1q8iJswRGJnf8wKVs)             | [Risk Management Plan](https://drive.google.com/open?id=1iUkYaQKMDL7mGSwdNpoIu-KCUZ1_6Yhwv1flvfUmHpU)|
-| [Decisions](https://drive.google.com/open?id=1zk-5phAtB7XhIN0ourKKT51OxwbStsZ_)               |                                |                | [Risk Register](https://drive.google.com/open?id=16VNgkBs3rKWezIkiO1ovMCDx6blobRHIYs8ZbZOl3K0)       |
-| [Management Documentation](https://drive.google.com/open?id=1DAo47W-4svWW_Ek5XHdfai0CKnkV6Ec4)|                                |                | [Statement of Work](https://drive.google.com/open?id=12bhNJ-nasf74UieJZhcsj3wIEmmZ5hZp)   |
-| [Technical Documentation](https://drive.google.com/open?id=18UBmo8dOSLm1uJFiDYEH1aARJkX342F0) |                                |                | [Communications Plan](https://drive.google.com/open?id=14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE) |
-| [User Story Map](https://docs.google.com/spreadsheets/d/1-JrDPFwQQ7a9Lt-Ci8eKgJC-9yZPuXGbhjtN30k2Yvk) | | | [High-Level Plan](https://docs.google.com/spreadsheets/d/1104HxKkBrMqMSm7NselJ8hm_Hz6r0E9YMggTr8qfa70) |
+| [Decisions](https://drive.google.com/open?id=1zk-5phAtB7XhIN0ourKKT51OxwbStsZ_)               |                                 |[Break Week 1](https://drive.google.com/open?id=1hv0ey68dUotjJJC4mHa3TTT_A5fhRQ667L8r83rWYyI)| [Risk Register](https://drive.google.com/open?id=16VNgkBs3rKWezIkiO1ovMCDx6blobRHIYs8ZbZOl3K0)       |
+| [Management Documentation](https://drive.google.com/open?id=1DAo47W-4svWW_Ek5XHdfai0CKnkV6Ec4)|                                |[Break Week 2](https://drive.google.com/open?id=1L7-CioDc6iW4dvbO57CaIykVACC3H6PpZLYol25A5ZM) | [Statement of Work](https://drive.google.com/open?id=12bhNJ-nasf74UieJZhcsj3wIEmmZ5hZp)   |
+| [Technical Documentation](https://drive.google.com/open?id=18UBmo8dOSLm1uJFiDYEH1aARJkX342F0) |                                | [Week 7](https://drive.google.com/open?id=1blTth3VVFca1xiML_svxpKmCkl5OLN4d9NaShk1waqY) | [Communications Plan](https://drive.google.com/open?id=14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE) |
+| [User Story Map](https://docs.google.com/spreadsheets/d/1-JrDPFwQQ7a9Lt-Ci8eKgJC-9yZPuXGbhjtN30k2Yvk) | |[Week 8](https://drive.google.com/open?id=11vwlQoKRj40yIA-G3MhpSAl5MqU910OLVPzcyyvpIYo)| [High-Level Plan](https://docs.google.com/spreadsheets/d/1104HxKkBrMqMSm7NselJ8hm_Hz6r0E9YMggTr8qfa70) |
 
 ## Introduction
 The CASS Degrees Program Planner is a tool which aims to facilitate students enrolled in CASS degrees to easily manage and personalise their degree program.
@@ -43,14 +47,14 @@ A more detailed list of project benefits can be found in the [MVP Problem and Be
 
 
 #### Client Vision
-The tool should expand on existing paper-based templates to assist students in selecting courses that will help them graduate on time according to the rules of their degree. It should draw on data from Programs and Courses and the expertise of course advisors to account for legal program variations and accomodate a wide berth of unique degree permutations. The client has requested an open sourse system, but is open to how the final product will be implemented.
+The tool should expand on existing paper-based templates to assist students in selecting courses that will help them graduate on time according to the rules of their degree. It should draw on data from Programs and Courses and the expertise of course advisors to account for legal program variations and accommodate a wide berth of unique degree permutations. The client has requested an open source system, but is open to how the final product will be implemented.
 
 
 ## Stakeholders
 
 #### Client
 
-Deborah Veness and Frederick Chew of the College of Art and Social Sciences expect a working program that will allow students of the Australian National University to manage their degrees. They have a large wishlist of requirements but accept that only an essential fraction of those may be completed given time constraints.
+Deborah Veness and Frederick Chew of the College of Art and Social Sciences expect a working program that will allow students of the Australian National University to manage their degrees. They have a large Wishlist of requirements but accept that only an essential fraction of those may be completed given time constraints.
 
 #### Developers
 
@@ -70,7 +74,7 @@ We will be engaging our stakeholders regularly to collect feedback and keep them
 #### Progress Tracking
 Every week, or at appropriate intervals, our team will complete a status report detailing a summary of recent actions, feedback, and decisions, a forecast of the coming interval, and an analysis of potential risks and mitigations. Taken in sequence, these reports will describe the progress of our project from start to finish.
 
-Additionally we will be using Git Issues to manage planned actions and milestones. This will allow us to track our velocity over time.
+Additionally, we will be using Git Issues to manage planned actions and milestones. This will allow us to track our velocity over time.
 
 #### Decision Making
 As a team we make decisions during the various meetings we have each week. Decisions are made democratically, with a consensus being found among all members before it is settled and recorded. Split matters are settled by vote.
@@ -85,9 +89,9 @@ Team meetings infrequently occur on Wednesday from 5:00pm to 6:00pm. Team meetin
 More detailed information regarding this can be found in our [Communications Plan](https://docs.google.com/document/d/14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE?usp=sharing).
 
 #### Communication
-Our team has decided to use Slack for it's official communication channel. This will allow us to easily hand over the project and its documentation to any team which may take over after us. This will also allow us to include our clients and get more rapid responses.
+Our team has decided to use Slack for its official communication channel. This will allow us to easily hand over the project and its documentation to any team which may take over after us. This will also allow us to include our clients and get more rapid responses.
 
-Additionally we will continue to use Facebook Messenger as an informal channel for keeping our team up to date and managing non-project matters.
+Additionally, we will continue to use Facebook Messenger as an informal channel for keeping our team up to date and managing non-project matters.
 
 More detailed information regarding this can be found in our [Communications Plan](https://docs.google.com/document/d/14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE?usp=sharing).
 
@@ -96,14 +100,17 @@ Potential Risks of the project have been outlined and managed in our Risk Regist
 
 These risks will be outlined by the Risk Identification committee and regularly updated as the project continues.
 
-The Risk Management Plan decribes the formal process of how we manage and discover risks and can be found here: [Risk Management Plan](https://drive.google.com/open?id=1iUkYaQKMDL7mGSwdNpoIu-KCUZ1_6Yhwv1flvfUmHpU).
+The Risk Management Plan describes the formal process of how we manage and discover risks and can be found here: [Risk Management Plan](https://drive.google.com/open?id=1iUkYaQKMDL7mGSwdNpoIu-KCUZ1_6Yhwv1flvfUmHpU).
 
 #### Reflection
-The team receives feedback both from tutors and the shadow team every audit week, after which the team will determine the feasability of each feedback item and implement the suggestions where possible.
+The team receives feedback both from tutors and the shadow team every audit week, after which the team will determine the feasibility of each feedback item and implement the suggestions where possible.
 
 As previously mentioned, client meetings are also scheduled every fortnight to gain actionable feedback directly from the client and to ensure the product is being developed correctly.
 
 Furthermore, all changes to the product are freely accessible on GitHub, and members are encouraged to review the changes made by other team members in order to ensure the best approach was used.
+
+We also track the feedback given during Audits and then as a team review them and action accordingly.
+These files can be found here: [Feedback Files](https://drive.google.com/drive/u/0/folders/10LmfKmBLF7mQ6Ri0RSveZ3jq5kQscv9v)
 
 
 ## Project Team
@@ -114,16 +121,15 @@ Members of the development team will take an active role in bringing this projec
 
 The following roles are not concrete and final as members of the team will help each other cohesively or move around if required.
 
-| Team Member     | ID       | Roles                                     | Description                                                                    |
-|-----------------|----------|------------------------------------------|--------------------------------------------------------------------------------|
-| Aiden George    | u6049100 | Database Manager, Back end developer      | Manages the design, integrity and security of the databases                                                                              |
-| Jack Sekoranja  | u6049302 | Team Leader, Back end developer           | Team leader and project manager, supporting the back end development                                                                            |
-| Daniel Jang     | u6048122 | Web Framework Expert, Back end developer  | Lead backend developer and expert/coach in the Django framework for the project                                                                            |
-| James Lonie     | u6379426 | Frontend, UX                              | Front end developer and UX design and feedback                                                                             |
-| Joshua Bee      | u4528333 | Assistant PM/BA/Client Liaison, UX        | UX design and support aswell as the assistant to Jack for client comunication                                                                           |
-| Kavan Lu        | u6051623 | Full stack developer, UX client Liason       | Full stack support and UX client liason for evaluation                                                                   |
-| Spencer Jimenez | u6051318 | Back end developer, Project documentation | Back end developer and Project documenter                                                                              |
-
+| Team Member     | ID       | Roles                           |                                                                 
+|-----------------|----------|---------------------------------|
+| Aiden George    | u6049100 | Developer                       | 
+| Jack Sekoranja  | u6049302 | Team Leader, Developer          | 
+| Daniel Jang     | u6048122 | Developer, Django Guru          | 
+| James Lonie     | u6379426 | Developer                       | 
+| Joshua Bee      | u4528333 | Developer, Client Liaison       | 
+| Kavan Lu        | u6051623 | Developer, Risk Manager         |
+| Spencer Jimenez | u6051318 | Developer                       |
 #### Additional Members
 
 | Team Member    | Role   |
@@ -140,11 +146,14 @@ The following roles are not concrete and final as members of the team will help 
 
 #### Software
 
-No decisions have been finalised on what resources will be used to complete the project, but early projections suggest:
 * Django
 * Python
-* SQLite
+* PostgreSQL
 
+The project application will be a Web based application therefore the standard: HTML, CSS, JavaScript. 
+
+CSS Styles used follows the ANU web publishing guideless and it will be an ANU endorsed website 
+http://webpublishing.anu.edu.au/web-style-guide/
 
 ## Links
 
@@ -154,7 +163,8 @@ No decisions have been finalised on what resources will be used to complete the 
 #### Project Management/Documentation
 * Google Docs - Full Folder: https://drive.google.com/open?id=10U7-yYsQLGL0vKojnlN8gC1WB_mJcal7
 * Meeting Logs: https://drive.google.com/drive/folders/1fpFeuFxD4O9LfkYHkkmW7qggrJmWUA_u
-* Projct Actions Register: https://github.com/cass-degrees/CASS-Degrees/issues
+* Project Actions Register: https://github.com/cass-degrees/CASS-Degrees/issues
+* Risk Register: https://drive.google.com/open?id=16VNgkBs3rKWezIkiO1ovMCDx6blobRHIYs8ZbZOl3K0
 * Issue Tracker (Code specific): https://github.com/cass-degrees/CASS-Degrees-Code/issues
 
 #### Communication
