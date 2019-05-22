@@ -123,7 +123,7 @@ Members of the development team will take an active role in bringing this projec
 |-----------------|----------|---------------------------------|
 | Aiden George    | u6049100 | Developer                       | 
 | Jack Sekoranja  | u6049302 | Team Leader, Developer          | 
-| Daniel Jang     | u6048122 | Developer, Django Guru          | 
+| Daniel Jang     | u6048122 | Developer                       | 
 | James Lonie     | u6379426 | Developer                       | 
 | Joshua Bee      | u4528333 | Developer, Client Liaison       | 
 | Kavan Lu        | u6051623 | Developer, Risk Manager         |
