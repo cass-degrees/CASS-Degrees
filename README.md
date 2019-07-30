@@ -9,9 +9,9 @@ For the codebase of the project please go to here: https://github.com/cass-degre
 ## Table of Contents
 1. [**Introduction**](#introduction)  
   1.1 [Need for Project](#need-for-project)  
-  1.2 [Client Vision](#client-vision)
-  1.3 [Semester One Goals](#semester-one-goals)
-  1.4 [Semester Two Goals](#semester-two-goals)
+  1.2 [Client Vision](#client-vision)  
+  1.3 [Semester One Goals](#semester-one-goals)  
+  1.4 [Semester Two Goals](#semester-two-goals)  
 2. [**Stakeholders**](#stakeholders)
 3. [**Project Approach**](#project-approach)  
   3.1 [Progress Tracking](#progress-tracking)  
