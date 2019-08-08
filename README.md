@@ -149,8 +149,8 @@ Members of the development team will take an active role in bringing this projec
 | Wendy Dimond   | Client |
 | Paul Dowden    | Client |
 | Jie Li         | Handover Developer |
-| Anthony Troy   | Tutor  |
-| David Retter   | Tutor  |
+| Brenton Smith  | Tutor  |
+| Huy Pham       | Other Tutorial Tutor  |
 
 
 ## Resources
