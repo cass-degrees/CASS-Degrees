@@ -34,7 +34,7 @@ For the codebase of the project please go to here: https://github.com/cass-degre
 | [Decisions](https://drive.google.com/open?id=1zk-5phAtB7XhIN0ourKKT51OxwbStsZ_)               |                                |          | [Risk Register](https://drive.google.com/open?id=16VNgkBs3rKWezIkiO1ovMCDx6blobRHIYs8ZbZOl3K0)       |
 | [Management Documentation](https://drive.google.com/open?id=1DAo47W-4svWW_Ek5XHdfai0CKnkV6Ec4)|                                |          | [Statement of Work](https://drive.google.com/open?id=12bhNJ-nasf74UieJZhcsj3wIEmmZ5hZp)   |
 | [Technical Documentation](https://drive.google.com/open?id=18UBmo8dOSLm1uJFiDYEH1aARJkX342F0) |                                |          | [Communications Plan](https://drive.google.com/open?id=14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE) |
-| [User Story Map](https://docs.google.com/spreadsheets/d/1-JrDPFwQQ7a9Lt-Ci8eKgJC-9yZPuXGbhjtN30k2Yvk) | | | [High-Level Plan](https://docs.google.com/spreadsheets/d/1104HxKkBrMqMSm7NselJ8hm_Hz6r0E9YMggTr8qfa70) |
+| [User Story Map](https://docs.google.com/spreadsheets/d/1WJUGaa0TRUGj9QGgvn6iKkH54BTGX1Y8Qk9Y-xqYh7U) | | | [High-Level Plan](https://docs.google.com/spreadsheets/d/1li08r5wrP-s4T8yV3jj4q6SxD5DdgeLBSR2MHraCeHU) |
 
 ## Introduction
 The CASS Degrees Program Planner is a tool which aims to facilitate students enrolled in CASS degrees to easily manage and personalise their degree program.
