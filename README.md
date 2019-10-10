@@ -30,11 +30,15 @@ For the codebase of the project please go to here: https://github.com/cass-degre
 | --------------------------------------------------------------------------------------------- | -------------------------------| ---------------|---------------------|
 | [Audit Slides](https://drive.google.com/open?id=1bcxvLUQuq6jiC465WvGlsRmKL5HT-RLo)            | [Clients and Other Stakeholders](https://drive.google.com/open?id=1E0AdjdjLzEDudV9X-D3Qjn3fYaql4mqs)| [Week 2](https://drive.google.com/open?id=14JJXiIkvvs-Fd_iTGT7PE_aCyUnZSwWO91MMiSdIDZI)| [Decision Log](https://drive.google.com/open?id=12ar4XQoozRggSNLCwvhpQoXkVg5gJ_JHEPpT2dG7LBE)        |
 | [Background Information](https://drive.google.com/open?id=1MOayte1dxKNy5z9vaXo3pz8scp3-lIYl)  | [Team](https://drive.google.com/open?id=1vDEsEDF1YbRqA0QhEgogbXtRuZk4z8xL)| [Week 3](https://drive.google.com/open?id=13fAox9sYS7ZLIUNOx3PTBBX1tvmHCjm421qHcNTZZM0)| [Project Charter](https://drive.google.com/open?id=1L3I3CIHI_RxuIQfRNz6L2n4ElNZzPtzUEkuak34ZdAA)|
-| [Feedback](https://drive.google.com/open?id=10LmfKmBLF7mQ6Ri0RSveZ3jq5kQscv9v)                | [Tutorial](https://drive.google.com/open?id=1I5MYG0kQGI4CZBQcIccEEP9XDHIYEEjf)                       |              | [Risk Management Plan](https://drive.google.com/open?id=1iUkYaQKMDL7mGSwdNpoIu-KCUZ1_6Yhwv1flvfUmHpU)|
-| [Decisions](https://drive.google.com/open?id=1zk-5phAtB7XhIN0ourKKT51OxwbStsZ_)               |                                |          | [Risk Register](https://drive.google.com/open?id=16VNgkBs3rKWezIkiO1ovMCDx6blobRHIYs8ZbZOl3K0)       |
-| [Management Documentation](https://drive.google.com/open?id=1DAo47W-4svWW_Ek5XHdfai0CKnkV6Ec4)|                                |          | [Statement of Work](https://drive.google.com/open?id=12bhNJ-nasf74UieJZhcsj3wIEmmZ5hZp)   |
-| [Technical Documentation](https://drive.google.com/open?id=18UBmo8dOSLm1uJFiDYEH1aARJkX342F0) |                                |          | [Communications Plan](https://drive.google.com/open?id=14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE) |
-| [User Story Map](https://docs.google.com/spreadsheets/d/1WJUGaa0TRUGj9QGgvn6iKkH54BTGX1Y8Qk9Y-xqYh7U) | | | [High-Level Plan](https://docs.google.com/spreadsheets/d/1li08r5wrP-s4T8yV3jj4q6SxD5DdgeLBSR2MHraCeHU) |
+| [Feedback](https://drive.google.com/open?id=10LmfKmBLF7mQ6Ri0RSveZ3jq5kQscv9v)                | [Tutorial](https://drive.google.com/open?id=1I5MYG0kQGI4CZBQcIccEEP9XDHIYEEjf)                       | [Week 4](https://drive.google.com/open?id=1xSA6hgQBK1G1W5bfWYhLoi73xoBIPIa5_AA4TsBtLrA)             | [Risk Management Plan](https://drive.google.com/open?id=1iUkYaQKMDL7mGSwdNpoIu-KCUZ1_6Yhwv1flvfUmHpU)|
+| [Decisions](https://drive.google.com/open?id=1zk-5phAtB7XhIN0ourKKT51OxwbStsZ_)               |                                | [Week 5](https://drive.google.com/open?id=1F1n9CIytibxV9YZ85GQSVivvjhHF0xWZ0q9-9GyYi9g)         | [Risk Register](https://drive.google.com/open?id=16VNgkBs3rKWezIkiO1ovMCDx6blobRHIYs8ZbZOl3K0)       |
+| [Management Documentation](https://drive.google.com/open?id=1DAo47W-4svWW_Ek5XHdfai0CKnkV6Ec4)|                                | [Week 6](https://drive.google.com/open?id=1b3OPQgxYPx6_BJqoQttwgBEuQCXUNhckL7AFaLHpWTc)         | [Statement of Work](https://drive.google.com/open?id=0BwOcSV6WLbgFRVgyYS1UZWhjaWN1alVHSmxTMEh4MlZqM2ow)   |
+| [Technical Documentation](https://drive.google.com/open?id=18UBmo8dOSLm1uJFiDYEH1aARJkX342F0) |                                | [TB 1](https://drive.google.com/open?id=1YjqR6TVuV61p2lU807ITlDZEBdIYrlc_E3Ug0V1zJBI)         | [Communications Plan](https://drive.google.com/open?id=14_TTOyZzZROlgy_2PFObUQcVHOLv-XMpO1PerCBhcNE) |
+| [User Story Map](https://docs.google.com/spreadsheets/d/1WJUGaa0TRUGj9QGgvn6iKkH54BTGX1Y8Qk9Y-xqYh7U) | | [TB 2](https://drive.google.com/open?id=15GLNcBHfuM5-isvLCwikyf_0omC0BAG2Qm2XBE3GmYw) | [High-Level Plan](https://docs.google.com/spreadsheets/d/1li08r5wrP-s4T8yV3jj4q6SxD5DdgeLBSR2MHraCeHU) |
+| [User Testing](https://drive.google.com/drive/u/1/folders/1kVd6l1mZ__UqjnlaWPT2UpQwoSnqFWP_) | | [Week 7](https://drive.google.com/open?id=1Hy4CarDplaeVILH0UuzTzeKGKF3DK8AzxLVnPiTwccI) | |
+| [Correspondence](https://drive.google.com/drive/u/1/folders/1RPZjQEKY82H3sDZep8EahC54fL8f3XGC?fbclid=IwAR2C1fJTXyfABws7RhvfJjNLoJHjDNWu_5qoRQocsoURiv5An0gVMdLwyvE) | | [Week 8](https://drive.google.com/open?id=1YfA2e35Rb3sInN8FLREkay7rnv13xCK8tEOpSbuQD3I) | |
+| | | [Week 9](https://drive.google.com/open?id=1pAFUp2u-EhrjJuwOMhdQ-aZWGU3ChMVKXS1g3Zq5_EE) | |
+| | | [Week 10](https://drive.google.com/open?id=1Y4Y8lhrrHaJnzz-vW_vleRWfQOf4-qNuUfZ_lcX5w1A) | |
 
 ## Introduction
 The CASS Degrees Program Planner is a tool which aims to facilitate students enrolled in CASS degrees to easily manage and personalise their degree program.
@@ -55,12 +59,9 @@ The tool should expand on existing paper-based templates to assist students in s
 In Semester One, the team delivered a program authoring tool. This tool aimed to streamline the process for template creation, allowing CASS staff to generate program models with the necessary data to populate an interim paper template generated by the tool.
 
 #### Semester Two Goals
-In Semester Two, the team aims to deliver a student-facing program planner, which uses the models created by the authoring tool to help students understand program requirements and have informed conversations with CASS advisers. To do this, the team will:
-* Validate the suitability of the authoring tool following last semester's handover to CASS
-* Confirm user stories to accurately scope the requirements of an MVP front-end, including how the plans will be used in practice
-* Wireframe and test potential front-end designs with CASS and students
-* Ensure sufficient data is available to support the development of the front-end
-* Develop, test and make ready for deployment a student-facing front end.
+The project will continue from the 22nd July - 25th October, refining the template authoring tool according to UAT feedback, and developing the planner proof of concept.
+
+The program planner tool will be completed as per the specifications, and will be accessible to CASS only as a prototype upon conclusion of the project. A public portal must be accessible for students to download completed plans. The template authoring tool will continue to be developed with weekly user acceptance testing to determine requirements.
 
 ## Stakeholders
 
